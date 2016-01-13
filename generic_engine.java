@@ -7,7 +7,7 @@ import javax.swing.*;
 
 /**
  * 
- * the main engine of the game
+ * the main engine of the game - compile and run this class to start
  * 
  *
  */
@@ -82,7 +82,7 @@ public class generic_engine
 
 		}	
 	}  
-} // BasicDraw
+} 
 
 
 

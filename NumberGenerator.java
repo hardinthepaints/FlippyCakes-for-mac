@@ -1,13 +1,15 @@
 import java.util.ArrayList;
+
+/**
+* Generate glyphs which represent the numerals 0 thru 9
+*/
+
 class NumberGenerator{
 	private static final float[] startPoint = new float[]{0,0,0,1};
 	public static final float WIDTH = 20;
 	public static final float HEIGHT = WIDTH * 1.618f;
 	
-// 	private static Glyph getTwo(){
-// 	
-// 	
-// 	}
+
 
 	private static Glyph toGlyph( ArrayList< float[] > points ){
 		return new Glyph( points, null, false );	

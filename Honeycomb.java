@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 
 /**
- * Created by Xander on 12/3/15.
+ * A Cellular Item with cells arranged in a honeycomb pattern
  */
 public class Honeycomb extends CellularItem {
     public Honeycomb(){}

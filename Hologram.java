@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 
+/* Represent the score in a 'hologram' type display near the top of the pan */
+
 class Hologram extends Item{
 	
 	/* describe how the glyphs are sized and spaced */

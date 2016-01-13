@@ -9,7 +9,7 @@ import java.util.Timer;
 //import java.awt.Graphics2D;
 
 /**
- * Created by Xander on 11/18/15.
+ * Represent an object in a game environment in terms of graphics and physics
  */
 public class Item{
 

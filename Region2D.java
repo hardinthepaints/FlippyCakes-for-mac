@@ -99,12 +99,13 @@ public class Region2D implements Drawable{
 
     }
     
+    /* add a shadow to the list of shadows to be drawn */
     public void addShadow( Path2D input ){
     	shadows.add( input );
     
     }
 
-    
+    /* draw the shadows onto the plane of the surface */
     private void drawShadows( Graphics2D g2d ) {
     	/* draw shadows, if any */
 		if (!shadows.isEmpty()){

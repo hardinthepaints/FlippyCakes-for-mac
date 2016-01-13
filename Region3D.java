@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 
 /**
- * Created by Xander on 11/19/15.
+ * Represent a 3d Region
  */
 public class Region3D {
 

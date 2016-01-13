@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 
+
+/* An extension of Region3D to specifically represent block letters */
+
 class Glyph extends Region3D{
 
 	/* three points which are used to calculate the normal vector */
